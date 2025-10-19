@@ -1,4 +1,4 @@
-name: RDP
+name: AYMcorp
 
 on:
   workflow_dispatch:
